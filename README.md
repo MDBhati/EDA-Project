@@ -1,2 +1,2 @@
 # EDA-Project
-Exploratory Data Analysis using Python
+Exploratory Data Analysis of Hotel Booking Dataset using Python
