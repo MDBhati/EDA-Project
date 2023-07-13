@@ -1,4 +1,4 @@
-# EDA-Project
+# EDA-Hotel Booking
 Exploratory Data Analysis of Hotel Booking Dataset using Python
 
 
